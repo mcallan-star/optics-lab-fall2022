@@ -1,2 +1,17 @@
+# matlab
 *.asv
+*.m~
+*.mat
+slprj/
+
+# raw data, too big to track. only the reduced csv lives in data/
+data/raw/
+*.tif
+*.tiff
+*.avi
+
+# python
+__pycache__/
+*.pyc
+
 .DS_Store
