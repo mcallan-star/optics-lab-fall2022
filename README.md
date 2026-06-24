@@ -1,6 +1,6 @@
 # optics lab, fall 2022
 
-my working folder for the upper-div optics lab. matlab in the lab, **octave** at home, and some python on the side. messy on purpose, this is where i actually work, not a clean report folder (≧◡≦)
+my working folder for the upper-div optics lab. matlab in the lab, **octave** at home, and some python on the side. messy on purpose, this is wa summary of the coursework content I did.
 
 HeNe on an optical table, a different experiment most weeks. analysis lives in `matlab/`, raw-ish data in `data/`, output plots in `figures/`, and my lab notes in `notes/`.
 
@@ -31,8 +31,8 @@ malus law, clean cos^2:
 
 ![malus](figures/malus.png)
 
-## a few caveats
-- a little is in `python/` too, was picking up numpy on the side
+## Note
+- a little is in `python/` as well
 - not every week has a writeup, some weeks are just a quick note in `notes/`
 - raw camera/spectrometer dumps are gitignored (too big), only the reduced csv is here
-- error bars are on my eternal todo list (`notes/todo.md`), been there since week 3 :')
+- error bars are on my eternal todo list (`notes/todo.md`), been there since week 3 
